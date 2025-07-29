@@ -2,7 +2,7 @@
 A sleek, modern web application built with React, TypeScript, Vite, and TailwindCSS, delivering real-time flight tracking with live updates, interactive maps, and detailed flight data, hosted on GitHub Pages.
 The site can be accessed through the [link](https://ebuka-martins.github.io/flight-track/) or [Local](http://localhost:5173/flight-track/)
 
-![front page logo](dist\assets\image\front-page.png)
+![front page logo](dist/assets/image/front-page.png)
 
 
 ## Overview
